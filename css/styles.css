@@ -49,7 +49,7 @@ a:hover {
   color: #EAF6F6;
 }
 hr {
-  border: dotted #e5e5e5 6px;
+  border: dotted #69D6F4 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -105,10 +105,16 @@ hr {
   margin-left: 30px;
 }
 
-.baking-img {
+.javascript-img {
   width: 25%;
   float: left;
   margin-right: 30px;
+}
+
+.baking-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
 }
 
 .skills-text-desc {
